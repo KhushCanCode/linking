@@ -1,0 +1,16 @@
+.header {
+    height: 80px; /* Replace with your header's actual height */
+}
+
+.homeSection {
+    height: calc(100vh - 110px); /* Subtract the header height */
+}
+.dashSection {
+    height: calc(100vh - 110px); /* Subtract the header height */
+}
+.signinsection {
+    height: calc(100vh - 110px); /* Subtract the header height */
+}
+.signupsection {
+    height: calc(100vh - 110px); /* Subtract the header height */
+}
